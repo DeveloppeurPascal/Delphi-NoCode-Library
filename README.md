@@ -1,12 +1,24 @@
 # Delphi-NoCode-Library
-Un petit paquet de composants qui permettront de faire du NoCode sous Delphi pour des opérations de base et du prototype de logiciels et applications mobiles.
+Delphi est un environnement de développement permettant de programmer en Pascal tout en étant assisté par une tonne d'outils intégrés allant de la conception au déploiement de projets pour Windows, macOS, iOS, Android et Linux.
 
-Le temps de développer la v1, la publier ici et vous pourrez voir tout ça tourner sur Delphi 10.4.2 Sydney et les versions suivantes.
+La conception de Delphi s'est faite dans un esprit RAD (Rapid Application Development) et continue à être très présent dans les versions récentes avec toujours plus de composants visuels ou non visuels permettant de faire des choses sans avoir à les coder. Cependant, contrairement à d'autres solutions logicielles, Delphi n'intègre pas en standard d'objets métiers. Cela implique de coder les siens ou faire appel à des librairies extérieures.
+
+Beaucoup de choses peuvent être faites en mode "no code" dans Delphi, mais certaines nécessitent quand même d'écrire une ligne ou deux de temps en temps.
+
+Les sources de ce projet sont là pour contourner le "problème" et ajouter des fonctionnalités aux éléments existants de l'environnement de Delphi et de ses composants afin de diminuer encore le nombre de lignes de code nécessaires dans les applications destinées à gérer des données.
+
+Pour en savoir plus et découvrir les premiers contenus de cette librairie, rendez-vous le 30 septembre 2021 à 14 heures (GMT+2) sur [la chaîne Twitch de Patrick Prémartin](https://www.twitch.tv/patrickpremartin) ou sur cet [article de blog](https://developpeur-pascal.fr/p/___00n-coder-sans-coder-delphi-en-mode-nocode-c-est-possible-webinaire-le-30-septembre-a-14-heures.html).
+
+Le code source de la librairie sera publié lors de sa présentation.
+
+-----
 
 Ce projet devrait être opérationnel pour la VCL comme FireMonkey avec Delphi. Une version C++Builder est possible.
 Si tout fonctionne comme voulu, une extension pour TMS Web Core, IntraWeb et UniGUI est envisagée.
 
-N'oubliez pas que vous pouvez [soutenir les projets sur lesquels je travaille](https://vasur.fr/sponsoropensource) et en profiter pour accéder à tout ce que fais en ligne. Chaque abonnement compte pour me donner du temps pour travailer sur ces projets open source et produire les articles et les vidéos auxquels vous aurez accès depuis [Zone Abo](https://zone-abo.fr).
+-----
+
+N'oubliez pas que vous pouvez [soutenir les projets sur lesquels je travaille](https://vasur.fr/sponsoropensource) et en profiter pour accéder à tout ce que je fais en ligne. Chaque abonnement compte pour me donner du temps pour travailer sur ces projets open source et produire les articles et les vidéos auxquels vous aurez accès depuis [Zone Abo](https://zone-abo.fr), [Serial Streameur](https://serialstreameur.fr) et [Apprendre Delphi](https://apprendre-delphi.fr).
 
 -----
 
