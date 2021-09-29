@@ -13,12 +13,11 @@ Le code source de la librairie sera publié lors de sa présentation.
 
 -----
 
-Ce projet devrait être opérationnel pour la VCL comme FireMonkey avec Delphi. Une version C++Builder est possible.
-Si tout fonctionne comme voulu, une extension pour TMS Web Core, IntraWeb et UniGUI est envisagée.
+Ce projet est destiné à être utilisé en VCL ou FireMonkey. Des extensions sont possibles vers d'autres frameworks ou types de projets cibles.
 
 -----
 
-N'oubliez pas que vous pouvez [soutenir les projets sur lesquels je travaille](https://vasur.fr/sponsoropensource) et en profiter pour accéder à tout ce que je fais en ligne. Chaque abonnement compte pour me donner du temps pour travailer sur ces projets open source et produire les articles et les vidéos auxquels vous aurez accès depuis [Zone Abo](https://zone-abo.fr), [Serial Streameur](https://serialstreameur.fr) et [Apprendre Delphi](https://apprendre-delphi.fr).
+Vous pouvez [soutenir les projets sur lesquels je travaille](https://vasur.fr/sponsoropensource) et en profiter pour accéder à tout ce que je fais en ligne. Chaque abonnement compte pour me donner du temps pour travailer sur ces projets open source et produire les articles et les vidéos auxquels vous aurez accès depuis [Zone Abo](https://zone-abo.fr), [Serial Streameur](https://serialstreameur.fr) et [Apprendre Delphi](https://apprendre-delphi.fr).
 
 -----
 
