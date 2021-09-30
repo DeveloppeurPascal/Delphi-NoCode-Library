@@ -21,6 +21,49 @@ Vous pouvez [soutenir les projets sur lesquels je travaille](https://vasur.fr/sp
 
 -----
 
+Ce projet fait partie du "DevPas Components Pack" qui permet d'installer tous mes composants et librairies en une fois.
+https://github.com/DeveloppeurPascal/DevPas-Components-Pack
+
+-----
+
+TODO :
+
+* TNCDualAction : action standard permettant d'enchainer deux actions
+
+* TNCSetFocusAction : donne le focus au composant visuel indiqué
+
+* TNCFormShowAction : pour afficher une fiche
+* TNCFormShowModalAction : pour afficher une fiche en modal
+* TNCFormHideAction : pour masquer une fiche
+* TNCFormCloseAction : pour fermer une fiche
+
+* TNCTakePhotoFromCameraAction : lance le choix d'une photo depuis la caméra après avoir vérifié ou demandé les permissions
+* TNCTakePhotoFromLibraryAction : lance le choix d'une photo depuis la librairie après avoir vérifié ou demandé les permissions
+* TNCShowShareSheetAction : lance l'API de partage standard du système après avoir vérifié ou demandé le droit de le faire à l'utilisateur
+* TNCPhoneCallAction : lance un appel après avoir vérifié ou demandé les permissions
+
+* TNCShowMessageAction : affiche un texte dans une boite de dialogue
+* TNCMessageDialogAction : affiche une boite de dialogue avec un texte et un choix de boutons
+
+* TNCImageFromURL : charge une image depuis une URL et la stocke éventuellement en cache
+
+* TNCImageCollection (FMX) : 
+-> fonctionne comme le TImageCollection de la VCL
+-> permet de charger des images sous forme de fichiers, d'URL ou de flux
+-> ajouter la possibilité de gérer des spritesheets
+
+* TNCVirtualImageList (FMX) :
+-> fonctionne comme le TVirtualImageList de la VCL
+
+* TNCVirtualImage (FMX) :
+-> fonctionne comme le TVirtualImage de la VCL
+
+* TNCImageCollection (VCL) :
+-> permet de charger des images depuis un flux plutôt que les embarquer dans l'exe
+-> ajouter la possibilité de gérer des spritesheets
+
+-----
+
 Si vous ne connaissez pas Delphi et le langage Pascal, profitez de la version Academic (pour les étudiants, enseignants et établissements d'enseignement) ou Community Edition (gratuite pour une utilisation personnelle) disponibles chez Embarcadero (rubrique "outils gratuits").
 En entreprise vous pouvez aussi tester Delphi avec la version d'évaluation.
 https://www.embarcadero.com/products/delphi
