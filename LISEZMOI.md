@@ -1,19 +1,23 @@
-# Delphi-Projects-Template
+# Delphi "No Code" Library
 
 [This page in English.](README.md)
 
-**Un modèle de dépôt git pour mes projets Delphi (ou autres).**
+Delphi est un environnement de développement permettant de programmer en Pascal tout en étant assisté par de nombreux outils intégrés allant de la conception au déploiement de projets pour Windows, macOS, iOS, Android et Linux.
 
-**Ce template est distribué sous licence MIT. La licence AGPL est pour les projets que je crée à partir de ce template de dépôt de code. Utilisez la licence que vous voulez si vous utilisez ce template.**
+La conception de Delphi s'est faite dans un esprit RAD (Rapid Application Development) et continue à être très présent dans les versions récentes avec toujours plus de composants visuels ou non visuels permettant de faire des choses sans avoir à les coder. Cependant, contrairement à d'autres solutions logicielles, Delphi n'intègre pas en standard d'objets métiers. Cela implique de coder les siens ou faire appel à des librairies extérieures.
+
+Beaucoup de choses peuvent être faites en mode "no code" dans Delphi, mais certaines nécessitent quand même d'écrire une ligne ou deux de temps en temps.
+
+Les sources de ce projet sont là pour contourner le "problème" et ajouter des fonctionnalités aux éléments existants de l'environnement de Delphi et de ses composants afin de diminuer encore le nombre de lignes de code nécessaires dans les applications destinées à gérer des données.
 
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
 
 ## Présentations et conférences
 
-### XXX 2024
+### DelphiCon 2021
 
-* [talk title](talk url) (en anglais)
-* [talk title](talk url) (en français)
+* [Using Delphi as a No Code development IDE](https://serialstreameur.fr/delphicon-2021-delphi-nocode.php) (in English)
+* [Coder sans coder : Delphi en mode no code.](https://serialstreameur.fr/webinaire-20210930.php) (in French)
 
 ### Twitch
 

@@ -1,19 +1,23 @@
-# Delphi-Projects-Template
+# Delphi "No Code" Library
 
 [Cette page en français.](LISEZMOI.md)
 
-**A git repository template for my Delphi (or other) projects.**
+Delphi is a development environment that lets you program in Pascal, supported by a lot of integrated tools for designing and deploying projects for Windows, macOS, iOS, Android and Linux.
 
-**This template is distributed under the MIT license. The AGPL license is for the projects I create from this code repository template. Use whatever license you want if you use this template.**
+Delphi was designed with RAD (Rapid Application Development) in mind, and continues to be very much in evidence in recent versions, with ever more visual or non-visual components enabling things to be done without having to be coded. However, unlike other software solutions, Delphi does not integrate business objects as standard. This means you have to code your own, or use external libraries.
+
+Many things can be done in "no code" mode in Delphi, but some still require you to write a line or two from time to time.
+
+The sources in this project are designed to get around this "problem" and add functionality to existing elements of the Delphi environment and its components in order to further reduce the number of lines of code needed in applications designed to manage data.
 
 This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
 
 ## Talks and conferences
 
-### XXX 2024
+### DelphiCon 2021
 
-* [talk title](talk URL) (in English)
-* [talk title](talk URL) (in French)
+* [Using Delphi as a No Code development IDE](https://serialstreameur.fr/delphicon-2021-delphi-nocode.php) (in English)
+* [Coder sans coder : Delphi en mode no code.](https://serialstreameur.fr/webinaire-20210930.php) (in French)
 
 ### Twitch
 
